@@ -1,0 +1,20 @@
+{
+  "name": "geoffrey-plugin",
+  "version": "1.0.0",
+  "description": "Geoffrey Butler — El mayordomo y crítico implacable de Producto y UX/UI. Previene la rendición cognitiva, audita flujos y estados, y genera los artefactos clave de UX antes de documentar o desarrollar.",
+  "author": {
+    "name": "David Rosello / Antigravity"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ux",
+    "ui",
+    "product-design",
+    "critical-thinking",
+    "cognitive-surrender",
+    "user-stories",
+    "user-flows",
+    "spec",
+    "review"
+  ]
+}
