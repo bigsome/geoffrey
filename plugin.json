@@ -15,6 +15,12 @@
     "user-stories",
     "user-flows",
     "spec",
-    "review"
+    "review",
+    "jeff"
+  ],
+  "suggestedPrompts": [
+    "Jeff, audita esta propuesta de diseño y sus estados",
+    "Geoffrey, genera la matriz de flujos y casos borde para esta feature",
+    "Pasa el examen de Geoffrey a esta historia de usuario antes de documentarla"
   ]
 }
